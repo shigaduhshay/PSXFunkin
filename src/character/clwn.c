@@ -51,8 +51,8 @@ static const CharFrame char_clwn_frame[] = {
 	{clwn_ArcMain_Left, {  0,   0,  93, 195}, { 40, 185+4}}, //4 left 1
 	{clwn_ArcMain_Left, { 94,   0,  95, 195}, { 40, 185+4}}, //5 left 2
 	
-	{clwn_ArcMain_Down, {  0,   0, 118, 183}, { 43, 174+4}}, //6 down 1
-	{clwn_ArcMain_Down, {119,   0, 117, 183}, { 43, 175+4}}, //7 down 2
+	{clwn_ArcMain_Down, {  0,   0, 138, 122}, { 43, 174+4}}, //6 down 1
+	{clwn_ArcMain_Down, {0,   123, 138, 245}, { 43, 175+4}}, //7 down 2
 	
 	{clwn_ArcMain_Up, {  0,   0, 102, 205}, { 40, 196+4}}, //8 up 1
 	{clwn_ArcMain_Up, {103,   0, 103, 203}, { 40, 194+4}}, //9 up 2
